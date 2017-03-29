@@ -1,0 +1,10 @@
+{
+  "name": "oweb-rtc",
+  "version": "0.0.0",
+  "description": "OWebRTC",
+  "main": "app.js",
+  "author": {
+    "name": "john.kao"
+  },
+  "dependencies": {}
+}
